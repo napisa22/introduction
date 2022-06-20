@@ -1,4 +1,4 @@
-### introduction
+### Introduction
 I am napisa.
 I have a bachelor degree in telecommunication engineering and master degree of management engineering. 
 I am currently working on blockchain projects now.
